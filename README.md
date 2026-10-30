@@ -1,4 +1,4 @@
-# HORA 3.0 - Research Reference Architecture
+# HORA 3.0 - Reference Architecture
 De testomgeving van de hoger-onderwijsreferentiearchitectuur / The test environment of the Dutch higher education reference architecture
 
 This test environment shows is meant for testing purposes only.
